@@ -26,7 +26,7 @@ class Login extends React.Component {
             <div className='col-md-6'>
               <div
                 className='card bg-light text-light wow slideInDown'
-                data-wow-duration='2s'
+                data-wow-duration='1s'
               >
                 <div className='card-header bg-dark d-flex justify-content-center'>
                   <span>
@@ -41,7 +41,7 @@ class Login extends React.Component {
                         type='text'
                         className='form-control wow bounceInLeft'
                         placeholder='Username'
-                        data-wow-delay='1s'
+                        data-wow-delay='0.5s'
                       />
                     </div>
                     <br />
@@ -50,7 +50,7 @@ class Login extends React.Component {
                         type='text'
                         className='form-control wow bounceInLeft'
                         placeholder='Password'
-                        data-wow-delay='2s'
+                        data-wow-delay='1s'
                       />
                     </div>
                     <br />
@@ -59,20 +59,20 @@ class Login extends React.Component {
                         type='text'
                         className='form-control wow bounceInLeft'
                         placeholder='Student ID'
-                        data-wow-delay='3s'
+                        data-wow-delay='1.5s'
                       />
                     </div>
                     <br />
                     <button
                       type='submit'
                       className='btn btn-dark form-control wow bounceInLeft'
-                      data-wow-delay='4s'
+                      data-wow-delay='2s'
                     >
                       Sign In
                     </button>
                     <a
                       href=''
-                      className='card-link d-block text-decoration-none my-4'
+                      className='card-link d-inline-block text-decoration-none my-4'
                     >
                       Forgot your Password?
                     </a>
@@ -85,6 +85,7 @@ class Login extends React.Component {
                 src={feesimg}
                 alt=''
                 className='img-fluid rounded d-block mx-auto wow slideInDown'
+                data-wow-delay='1.5s'
               />
               <p
                 className='bold wow slideInDown'
