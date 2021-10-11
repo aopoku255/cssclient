@@ -27,7 +27,7 @@ class BodyMain extends Component{
               <div className="col-md-6 wow bounceInLeft" data-wow-duration="2s">
               <h3 className="display-6 wow bounceInDown" data-wow-delay="1s">CSS Community</h3>
               <p className="lead">Computer Science Society is a community of developers.</p>
-              <p className="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam doloremque ab molestias, nam inventore sit incidunt ad sunt eius nobis voluptatibus delectus cupiditate, aperiam repellendus, dolorum possimus fugit quibusdam facilis.</p>
+              <p className="lead">A community of developers who tends to solve problems around them with technology.</p>
               <h4 className="wow bounceInRight" data-wow-delay="1.5s">Swipe <BsChevronRight/></h4>
               </div>
               <div className="col-md-6 wow bounceInRight" data-wow-duration="3s">
@@ -44,8 +44,7 @@ class BodyMain extends Component{
               </div>
               <div className="col-md-6 wow bounceInRight" data-wow-duration="2s">
               <h3 className="display-6 wow bounceInDown" data-wow-delay="1s">Connect With Friends</h3>
-              <p className="lead wow bounceInRight" data-wow-delay="0.5s">Computer Science Society is a community of developers.
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione obcaecati recusandae ut, labore nobis consequuntur dolores nemo ullam laborum assumenda esse molestiae delectus voluptates inventore. Tempora laborum quasi placeat voluptatum.</p>
+              <p className="lead wow bounceInRight" data-wow-delay="0.5s">We are one community making the world a better place for humanity. Meet fellow developers and engineers and share ideas.</p>
               <a href="/login" className="btn btn-primary mb-5 wow slideInRight" data-wow-delay="1.5s">connect with friends</a>
               </div>
             </div>
@@ -59,8 +58,7 @@ class BodyMain extends Component{
               </div>
               <div className="col-md-6 wow bounceInRight" data-wow-duration="2s">
               <h3 className="display-6 wow bounceInDown">Access Learning Materials</h3>
-              <p className="lead wow slideInRight" data-wow-delay="1s">Computer Science Society is a community of developers.
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione obcaecati recusandae ut, labore nobis consequuntur dolores nemo ullam laborum assumenda esse molestiae delectus voluptates inventore. Tempora laborum quasi placeat voluptatum.</p>
+              <p className="lead wow slideInRight" data-wow-delay="1s">Get all your course material here. Ranging from academics and non-academics.Do not forget to share and review interesting resources.</p>
               <a href="/login" className="btn btn-outline-light mb-5 wow bounceInRight shadow-lg" data-wow-delay="1.5s">access learning materials</a>
               </div>
             </div>
@@ -75,8 +73,7 @@ class BodyMain extends Component{
               </div>
               <div className="col-md-6 wow bounceInRight" data-wow-duration="2s">
               <h3 className="display-6 wow bounceInDown">Solve Weekly Problems</h3>
-              <p className="lead wow slideInRight" data-wow-delay="1s">Computer Science Society is a community of developers.
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione obcaecati recusandae ut, labore nobis consequuntur dolores nemo ullam laborum assumenda esse molestiae delectus voluptates inventore. Tempora laborum quasi placeat voluptatum.</p>
+              <p className="lead wow slideInRight" data-wow-delay="1s">Here you get to solve a little bit challenging problem to help improve your coding and problem solving skills.Try again if you did not do well in the challenge.</p>
               <a href="/login" className="btn btn-outline-light mb-5 wow bounceInRight shadow-lg" data-wow-delay="1.5s">solve weekly problems</a>
               </div>
             </div>
